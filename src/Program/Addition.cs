@@ -6,8 +6,7 @@ public class Addition
 {
     public static int Add(int a, int b)
     {
-        Console.WriteLine("Hola Mundo");
-        return a + b;
-        
+        return 0;
+
     }
 }
