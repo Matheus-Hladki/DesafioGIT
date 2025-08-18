@@ -1,6 +1,4 @@
-﻿using Ucu.Poo.GitChallenge;
-
-
+using Ucu.Poo.GitChallenge;
 
 Console.WriteLine(Addition.Add(7, 2));
 Console.WriteLine(Substraction.Substract(10, 1));
